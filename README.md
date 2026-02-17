@@ -38,12 +38,4 @@ Durante mi formación estoy adquiriendo conocimientos en:
 
 🌱 Siempre Aprendiendo
 
-Creo firmemente que en el mundo de la tecnología nunca se deja de aprender. Por eso, intento:
 
-Explorar nuevas herramientas
-
-Mejorar mis buenas prácticas de código
-
-Desarrollar proyectos personales
-
-Mantenerme actualizado
